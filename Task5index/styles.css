@@ -1,0 +1,25 @@
+.color-example {
+    color:indianred;
+    background-color:#f0f0f0;
+    border: 3px solid blanchedalmond;
+}
+.header-example {
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: cornflowerblue;
+}
+.list-example {
+    list-style-type: square;
+    color: coral;
+}
+.text-example {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+.div-example {
+    background-color: lavender;
+    border: 2px solid cornflowerblue;
+    padding: 10px;
+}
